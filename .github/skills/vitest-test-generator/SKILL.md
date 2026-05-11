@@ -15,6 +15,7 @@ When invoked, you will:
 2. **Identify the endpoints / methods** that need tests
 3. **Look at existing tests** in `tests/` for style and patterns
 4. **Generate a new test file** (or extend an existing one) following the conventions below
+5. **Show a message confirming the skill was activated and the tests were generated**
 
 ## Conventions to follow
 
