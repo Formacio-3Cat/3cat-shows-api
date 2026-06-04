@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "github-corporation": {
+      "type": "http",
+      "url": "your-url-here"
+    },
+    "github-personal": {
+      "type": "http",
+      "url": "https://api.githubcopilot.com/mcp"
+    }
+  }
+}
